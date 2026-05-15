@@ -15,8 +15,8 @@
 
 | 平台 | 架构 | 下载 |
 |------|------|------|
-| macOS | Intel (x64) | [Homomuse Owner-1.0.0.dmg](https://github.com/Homomuse/homomuse-releases/releases/latest) |
-| macOS | Apple Silicon (arm64) | [Homomuse Owner-1.0.0-arm64.dmg](https://github.com/Homomuse/homomuse-releases/releases/latest) |
+| macOS | Intel (x64) | [Homomuse Owner-0.1.0.dmg](https://github.com/Homomuse/homomuse-releases/releases/latest) |
+| macOS | Apple Silicon (arm64) | [Homomuse Owner-0.1.0-arm64.dmg](https://github.com/Homomuse/homomuse-releases/releases/latest) |
 
 📦 **所有版本**: [Releases 页面](https://github.com/Homomuse/homomuse-releases/releases)
 
